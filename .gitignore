@@ -1,0 +1,7 @@
+node_modules/
+planner.db
+planner.db-*
+.env
+*.log
+dist/
+.DS_Store
